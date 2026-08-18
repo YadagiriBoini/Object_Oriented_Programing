@@ -1,6 +1,6 @@
 
 # Task - 1
-class Empolyee:
+class Employee:
 
     company = "HCL"
 
@@ -17,13 +17,14 @@ class Empolyee:
 
     @staticmethod
     def is_valid_salary(salary):
-        return salary>15000
+        return salary >= 15000
 
-empolyee1 = Empolyee("Yadagiri", 50000)
-empolyee2 = Empolyee("Anil", 60000)
+empolyee1 = Employee("Yadagiri", 50000)
+empolyee2 = Employee("Anil", 60000)
 empolyee1.display()
-Empolyee.company_info()
-print(Empolyee.is_valid_salary(50000))
+empolyee2.display()
+Employee.company_info()
+print(Employee.is_valid_salary(50000))
 
 
 
@@ -44,10 +45,3 @@ class student:
 student1 = student.from_string("Yadagiri,20")
 print(student1.name)
 print(student1.age)
-
-
-
-
-
-# Task - 3
-    

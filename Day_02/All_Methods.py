@@ -1,6 +1,6 @@
 
 class student:
-        
+
     college = "ABC"
 
     def display(self):
@@ -15,6 +15,6 @@ class student:
         return a+b
     
 student1 = student()
-student.display()
+student1.display()
 student.show_college()
 print(student.add(6,7))
