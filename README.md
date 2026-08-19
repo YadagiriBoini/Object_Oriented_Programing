@@ -29,3 +29,20 @@
 - Alternative Constructors
 - self vs cls
 - Instance vs Class vs Static Methods
+
+---
+
+## Day 3 — Inheritance
+- Inheritance
+- Parent/Base Class
+- Child/Derived Class
+- Basic Inheritance
+- Inherited Attributes & Methods
+- super()
+- Method Overriding
+- Single Inheritance
+- Multilevel Inheritance
+- Multiple Inheritance
+- Hierarchical Inheritance
+- Hybrid Inheritance
+- "IS-A" Relationship
