@@ -46,3 +46,14 @@
 - Hierarchical Inheritance
 - Hybrid Inheritance
 - "IS-A" Relationship
+
+---
+
+## Day 4 — Polymorphism
+- Polymorphism
+- Method Overriding
+- Duck Typing
+- Method Overloading
+- Operator Overloading
+- Dunder Methods
+- Polymorphism in AI/ML
