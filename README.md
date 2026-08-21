@@ -57,3 +57,20 @@
 - Operator Overloading
 - Dunder Methods
 - Polymorphism in AI/ML
+
+---
+
+## Day 5 — Encapsulation & Abstraction
+- Encapsulation
+- Public, Protected & Private conventions
+- _variable
+- __variable
+- Name Mangling
+- Getters & Setters
+- @property
+- Property Setter
+- Abstraction
+- Abstract Classes
+- ABC
+- @abstractmethod
+- Encapsulation vs Abstraction
