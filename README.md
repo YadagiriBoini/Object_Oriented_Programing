@@ -74,3 +74,21 @@
 - ABC
 - @abstractmethod
 - Encapsulation vs Abstraction
+
+---
+
+## Day 6 — Advanced Python OOP
+- Dunder/Magic Methods
+- __str__()
+- __repr__()
+- __len__()
+- __eq__()
+- __add__()
+- Operator Overloading
+- Composition
+- Aggregation
+- Association
+- Multiple Inheritance
+- MRO (Method Resolution Order)
+- super() with MRO
+- object Class
