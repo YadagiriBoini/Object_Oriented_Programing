@@ -92,3 +92,44 @@
 - MRO (Method Resolution Order)
 - super() with MRO
 - object Class
+
+---
+
+## Day 7 — OOP Final Project & Interview Preparation
+### 🏗️ Final Project — Student Management System
+
+Classes
+Person (Abstract Class)
+│
+├── Student
+│
+└── Teacher
+
+StudentManager
+└── manages Student objects
+
+#### Person
+- Common name and age
+- Abstract display_role()
+
+#### Student
+- Inherits from Person
+- course
+- Protected-style age property
+- Encapsulated marks
+- display()
+- is_passed()
+- display_role()
+- __str__()
+
+#### Teacher
+- Inherits from Person
+- subject
+- display_role()
+
+#### StudentManager
+- Stores students
+- add_student()
+- display_all()
+- find_student()
+- remove_student()
